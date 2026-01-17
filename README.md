@@ -16,17 +16,21 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Me chamo **Gustavo Bonetto**, tenho **17 anos** e sou apaixonado por transformar lógica complexa em software funcional.
+Meu nome é **Gustavo Bonetto**, tenho **17 anos** e sou um entusiasta da tecnologia em constante evolução.
 
-Atualmente, estou no **2º ano do curso de Desenvolvimento de Sistemas no SENAI**. Minha jornada é guiada pela curiosidade técnica: estou focado em entender profundamente como os sistemas operam (backend/low-level) enquanto desenvolvo interfaces interativas e modernas para a web.
+Atualmente, estou cursando o **2º ano do Técnico em Desenvolvimento de Sistemas no SENAI**, onde estou construindo uma base técnica sólida. Diferente de apenas "copiar código", meu objetivo é entender profundamente como o software interage com o hardware e como criar soluções escaláveis.
 
-* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (2º Ano/SENAI).
-* 🧠 **Foco:** Lógica de Programação e Algoritmos.
-* ⚡ **Lema:** Aprender hoje para construir o amanhã.
+Minha abordagem de estudos se divide em dois pilares principais:
+1.  **Fundamentos Sólidos (Backend/Low-level):** Utilizo a linguagem **C** para dominar algoritmos, gerenciamento de memória e lógica estrutural.
+2.  **Desenvolvimento Moderno (Web):** Aplico **JavaScript** para criar interfaces dinâmicas e funcionais, preparando-me para o mercado Full Stack.
+
+* 🎯 **Objetivo:** Tornar-me um Desenvolvedor de Software capaz de resolver problemas complexos com código limpo.
+* 🧠 **Soft Skills:** Disciplina, curiosidade técnica e facilidade para trabalho em equipe.
+* 🎓 **Status:** Em formação técnica intensiva (SENAI).
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Arsenal Tecnológico
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -41,9 +45,9 @@ Atualmente, estou no **2º ano do curso de Desenvolvimento de Sistemas no SENAI*
 
 ### ⚡ O que estou praticando?
 
-* **Linguagem C:** Ponteiros, alocação de memória e estruturas de dados.
-* **JavaScript:** Manipulação de DOM e lógica client-side.
-* **Versionamento:** Git flow e colaboração no GitHub.
+* **Estrutura de Dados:** Listas encadeadas, pilhas e filas em C.
+* **Web Interativa:** Manipulação avançada do DOM e Eventos com JS.
+* **Boas Práticas:** Clean Code e Versionamento com Git Flow.
 
 ---
 
