@@ -45,13 +45,10 @@ Minha abordagem de estudos se divide em dois pilares principais:
 
 ### ⚡ O que estou praticando?
 
-* **Estrutura de Dados:** Listas encadeadas, pilhas e filas em C.
-* **Web Interativa:** Manipulação avançada do DOM e Eventos com JS.
-* **Boas Práticas:** Clean Code e Versionamento com Git Flow.
+Minha rotina de estudos é 100% prática. No momento, utilizo o **VS Code** diariamente para resolver exercícios de lógica em **C** e criar scripts interativos em **JavaScript**. Além disso, estou explorando ativamente o **GitHub** para versionar meus códigos, entender o fluxo de trabalho profissional e organizar meu aprendizado.
 
 ---
 
 <div align="center">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=555555&right_color=007ec6&left_text=PROFILE%20VIEWS" alt="visitors">
-</div>
+  <img src="
