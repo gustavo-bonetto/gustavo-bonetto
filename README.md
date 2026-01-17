@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ea043,26a641&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Dev%20System%20Student%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004e92,00cb82&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Dev%20System%20Student%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
   
   <br>
   
   <h3>🚀 Aprendendo, Construindo e Evoluindo</h3>
 
   <a href="mailto:gustavo.bonetto@aluno.senai.br">
-    <img src="https://img.shields.io/badge/Email-gustavo.bonetto@aluno.senai.br-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <br><br>
@@ -16,9 +16,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Tenho **17 anos** e sou apaixonado por transformar lógica em software funcional.
+Olá! Me chamo **Gustavo Bonetto**, tenho **17 anos** e sou apaixonado por transformar lógica complexa em software funcional.
 
-Atualmente, estou no **2º ano do curso de Desenvolvimento de Sistemas no SENAI**. Minha jornada é guiada pela curiosidade e pela prática constante: estou construindo minha base técnica com foco em entender o funcionamento profundo dos sistemas enquanto exploro o desenvolvimento web moderno.
+Atualmente, estou no **2º ano do curso de Desenvolvimento de Sistemas no SENAI**. Minha jornada é guiada pela curiosidade técnica: estou focado em entender profundamente como os sistemas operam (backend/low-level) enquanto desenvolvo interfaces interativas e modernas para a web.
 
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (2º Ano/SENAI).
 * 🧠 **Foco:** Lógica de Programação e Algoritmos.
@@ -49,5 +49,5 @@ Atualmente, estou no **2º ano do curso de Desenvolvimento de Sistemas no SENAI*
 
 <div align="center">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=gray&right_color=2ea043" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=555555&right_color=007ec6&left_text=PROFILE%20VIEWS" alt="visitors">
 </div>
