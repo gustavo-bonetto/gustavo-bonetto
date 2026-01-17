@@ -11,7 +11,7 @@
     Focado na construção de uma base sólida em lógica de programação e desenvolvimento web.
   </p>
 
-  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+  <a href="mailto:gustavo.bonetto@aluno.senai.br">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
