@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=008000,26a641&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ea043,26a641&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Dev%20System%20Student%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
   
   <br>
   
-  <h3>Construindo base sólida em Lógica e Web 🚀</h3>
+  <h3>🚀 Aprendendo, Construindo e Evoluindo</h3>
 
   <a href="mailto:gustavo.bonetto@aluno.senai.br">
-    <img src="https://img.shields.io/badge/Email-gustavo.bonetto@aluno.senai.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-gustavo.bonetto@aluno.senai.br-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <br><br>
@@ -14,15 +14,15 @@
 
 ---
 
-### 🚀 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-Tenho **17 anos**, me chamo **Gustavo Bonetto** e estou **aprendendo, construindo e evoluindo**.
+Olá! Tenho **17 anos** e sou apaixonado por transformar lógica em software funcional.
 
-Atualmente estou no meu **segundo ano** no curso de Desenvolvimento de Sistemas do **SENAI**, focado em dominar a lógica de programação e criar soluções para a web.
+Atualmente, estou no **2º ano do curso de Desenvolvimento de Sistemas no SENAI**. Minha jornada é guiada pela curiosidade e pela prática constante: estou construindo minha base técnica com foco em entender o funcionamento profundo dos sistemas enquanto exploro o desenvolvimento web moderno.
 
-- 🔭 **Foco atual:** Lógica de Algoritmos e Estrutura de Dados.
-- 📚 **Estudando:** Linguagem C (Backend/Lógica) e JavaScript (Web).
-- 🎯 **Objetivo:** Desenvolvedor Full Stack.
+* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (2º Ano/SENAI).
+* 🧠 **Foco:** Lógica de Programação e Algoritmos.
+* ⚡ **Lema:** Aprender hoje para construir o amanhã.
 
 ---
 
@@ -39,13 +39,11 @@ Atualmente estou no meu **segundo ano** no curso de Desenvolvimento de Sistemas 
 
 ---
 
-### ⚡ Jornada de Aprendizado
+### ⚡ O que estou praticando?
 
-Como estudante, meu foco está na prática constante de conceitos fundamentais:
-
-* **Fundamentos de C:** Manipulação de memória, ponteiros e algoritmos.
-* **JavaScript:** Interatividade web e manipulação do DOM.
-* **Controle de Versão:** Boas práticas com Git e GitHub.
+* **Linguagem C:** Ponteiros, alocação de memória e estruturas de dados.
+* **JavaScript:** Manipulação de DOM e lógica client-side.
+* **Versionamento:** Git flow e colaboração no GitHub.
 
 ---
 
