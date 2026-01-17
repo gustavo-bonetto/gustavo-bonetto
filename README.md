@@ -30,7 +30,7 @@ Minha abordagem de estudos se divide em dois pilares principais:
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ TECH STACK
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
