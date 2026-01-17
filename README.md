@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=138c45,88d8b0&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ea043,26a641&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
   
   <br>
   
@@ -16,7 +16,9 @@
 
 ### 🚀 Sobre Mim
 
-Atualmente estou em formação no **SENAI**, focando nos fundamentos da computação. Meu objetivo é dominar como o software interage com o hardware através de linguagens de baixo nível, enquanto aprendo a criar interfaces modernas para a web.
+Tenho **17 anos**, me chamo **Gustavo Bonetto** e estou **aprendendo, construindo e evoluindo**.
+
+Atualmente estou no meu **segundo ano** no curso de Desenvolvimento de Sistemas do **SENAI**, focado em dominar a lógica de programação e criar soluções para a web.
 
 - 🔭 **Foco atual:** Lógica de Algoritmos e Estrutura de Dados.
 - 📚 **Estudando:** Linguagem C (Backend/Lógica) e JavaScript (Web).
@@ -49,5 +51,5 @@ Como estudante, meu foco está na prática constante de conceitos fundamentais:
 
 <div align="center">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=gray&right_color=138c45" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=gray&right_color=2ea043" alt="visitors">
 </div>
