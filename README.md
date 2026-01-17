@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ea043,26a641&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=008000,26a641&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
   
   <br>
   
