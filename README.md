@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00599C,00C7B7&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=138c45,88d8b0&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
   
   <br>
   
@@ -49,5 +49,5 @@ Como estudante, meu foco está na prática constante de conceitos fundamentais:
 
 <div align="center">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=gray&right_color=00599C" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=gray&right_color=138c45" alt="visitors">
 </div>
