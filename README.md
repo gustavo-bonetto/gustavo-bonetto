@@ -1,64 +1,53 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/>
-  <h1>Olá, eu sou o Gustavo Bonetto!</h1>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px"/>
-</div>
-
-<div align="center">
-  <h3>🎓 Estudante de Desenvolvimento de Sistemas @ SENAI</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00599C,00C7B7&height=230&section=header&text=Gustavo%20Bonetto&fontSize=70&fontColor=ffffff&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20@%20SENAI&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
   
-  <p>
-    Focado na construção de uma base sólida em lógica de programação e desenvolvimento web.
-  </p>
+  <br>
+  
+  <h3>Construindo base sólida em Lógica e Web 🚀</h3>
 
   <a href="mailto:gustavo.bonetto@aluno.senai.br">
     <img src="https://img.shields.io/badge/Email-gustavo.bonetto@aluno.senai.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+
+  <br><br>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Atualmente estou em formação no **SENAI**, mergulhando no mundo da tecnologia. Meu foco agora é dominar a lógica de programação de baixo nível para entender como os computadores realmente funcionam, ao mesmo tempo em que exploro a interatividade da Web.
+Atualmente estou em formação no **SENAI**, focando nos fundamentos da computação. Meu objetivo é dominar como o software interage com o hardware através de linguagens de baixo nível, enquanto aprendo a criar interfaces modernas para a web.
 
 - 🔭 **Foco atual:** Lógica de Algoritmos e Estrutura de Dados.
-- 📚 **Estudando:** Linguagem C para backend/lógica e JavaScript para web.
-- 🎯 **Objetivo:** Tornar-me um desenvolvedor Full Stack com base técnica sólida.
+- 📚 **Estudando:** Linguagem C (Backend/Lógica) e JavaScript (Web).
+- 🎯 **Objetivo:** Desenvolvedor Full Stack.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-Minha caixa de ferramentas atual, focada em aprendizado prático:
+### 🛠️ Tecnologias
 
 <div align="center">
-
-#### Linguagens
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-
-#### Ambiente de Desenvolvimento
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 ---
 
 ### ⚡ Jornada de Aprendizado
 
-Como não tenho projetos grandes publicados ainda, aqui está o que estou praticando no momento:
+Como estudante, meu foco está na prática constante de conceitos fundamentais:
 
-* **Fundamentos de C:** Manipulação de memória, ponteiros e criação de algoritmos eficientes.
-* **JavaScript Moderno:** Manipulação do DOM e lógica para web interativa.
-* **Versionamento:** Aprendendo a gerenciar código e repositórios com Git.
+* **Fundamentos de C:** Manipulação de memória, ponteiros e algoritmos.
+* **JavaScript:** Interatividade web e manipulação do DOM.
+* **Controle de Versão:** Boas práticas com Git e GitHub.
 
 ---
 
 <div align="center">
-  <p><i>"Programação é a arte de dizer a outro humano o que você quer que o computador faça."</i> – Donald Knuth</p>
   <br>
-  <p align="center">Desenvolvido por <strong>Gustavo Bonetto</strong></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=gray&right_color=00599C" alt="visitors">
 </div>
