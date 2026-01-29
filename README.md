@@ -22,7 +22,7 @@ Atualmente, estou cursando o **2º ano do Técnico em Desenvolvimento de Sistema
 
 Minha abordagem de estudos se divide em dois pilares principais:
 1.  **Fundamentos Sólidos (Backend/Low-level):** Utilizo a linguagem **C** para dominar algoritmos, gerenciamento de memória e lógica estrutural.
-2.  **Desenvolvimento Moderno (Web):** Aplico **JavaScript** para criar interfaces dinâmicas e funcionais, preparando-me para o mercado Full Stack.
+2.  **Desenvolvimento Moderno (Web):** Aplico **HTML, CSS e JavaScript** para criar interfaces dinâmicas e funcionais, preparando-me para o mercado Full Stack.
 
 * 🎯 **Objetivo:** Tornar-me um Desenvolvedor de Software capaz de resolver problemas complexos com código limpo.
 * 🧠 **Soft Skills:** Disciplina, curiosidade técnica e facilidade para trabalho em equipe.
@@ -34,6 +34,8 @@ Minha abordagem de estudos se divide em dois pilares principais:
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
