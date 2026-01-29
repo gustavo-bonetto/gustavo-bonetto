@@ -43,6 +43,24 @@ Minha abordagem de estudos se divide em dois pilares principais:
 
 ---
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=SEU_USUARIO_DO_GITHUB&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <br><br>
+
+  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_DO_GITHUB&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+</div>
+
+---
+
 ### ⚡ O que estou praticando?
 
 Minha rotina de estudos é 100% prática. No momento, utilizo o **VS Code** diariamente para resolver exercícios de lógica em **C** e criar scripts interativos em **JavaScript**. Além disso, estou explorando ativamente o **GitHub** para versionar meus códigos, entender o fluxo de trabalho profissional e organizar meu aprendizado.
@@ -51,5 +69,5 @@ Minha rotina de estudos é 100% prática. No momento, utilizo o **VS Code** diar
 
 <div align="center">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_GITHUB.SEU_USUARIO_GITHUB&left_color=555555&right_color=007ec6&left_text=PROFILE%20VIEWS" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_DO_GITHUB.SEU_USUARIO_DO_GITHUB&left_color=555555&right_color=007ec6&left_text=PROFILE%20VIEWS" alt="visitors">
 </div>
