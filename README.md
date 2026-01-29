@@ -49,14 +49,14 @@ Minha abordagem de estudos se divide em dois pilares principais:
   <img src="https://github-profile-trophies.vercel.app/?username=gustavo-bonetto&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
 
-  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+  <a href="https://github.com/gustavo-bonetto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-bonetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bonetto&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-bonetto&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-bonetto&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ---
@@ -69,5 +69,5 @@ Minha rotina de estudos é 100% prática. No momento, utilizo o **VS Code** diar
 
 <div align="center">
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_DO_GITHUB.SEU_USUARIO_DO_GITHUB&left_color=555555&right_color=007ec6&left_text=PROFILE%20VIEWS" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavo-bonetto.gustavo-bonetto&left_color=555555&right_color=007ec6&left_text=PROFILE%20VIEWS" alt="visitors">
 </div>
