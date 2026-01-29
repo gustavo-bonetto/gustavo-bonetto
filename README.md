@@ -46,17 +46,17 @@ Minha abordagem de estudos se divide em dois pilares principais:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=SEU_USUARIO_DO_GITHUB&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophies.vercel.app/?username=gustavo-bonetto&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
 
   <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-bonetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bonetto&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_DO_GITHUB&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-bonetto&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 </div>
 
 ---
