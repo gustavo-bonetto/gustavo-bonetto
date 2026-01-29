@@ -53,7 +53,7 @@ Minha abordagem de estudos se divide em dois pilares principais:
   
   <br>
 
-  <img src="https://streak-stats.demolab.com?user=gustavo-bonetto&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-bonetto&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
