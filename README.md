@@ -46,9 +46,6 @@ Minha abordagem de estudos se divide em dois pilares principais:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=gustavo-bonetto&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-  <br><br>
-
   <a href="https://github.com/gustavo-bonetto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-bonetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bonetto&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -56,7 +53,7 @@ Minha abordagem de estudos se divide em dois pilares principais:
   
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-bonetto&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=gustavo-bonetto&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 </div>
 
 ---
